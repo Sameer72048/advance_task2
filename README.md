@@ -1,3 +1,10 @@
+name : Sameer L 
+company : CODTECH IT SOLUTIONS 
+id : CDO8DVI 
+domain : full stack web development 
+duration : dec to jan 2025 
+mentor : Muzammil Ahmed
+
 Overview of the Chat Application
 Key Features
 Real-Time Messaging: Utilizes WebSocket to enable real-time communication between the user and a bot. Messages are sent and received instantly.
