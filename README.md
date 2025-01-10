@@ -4,6 +4,8 @@ id : CDO8DVI
 domain : full stack web development 
 duration : dec to jan 2025 
 mentor : Muzammil Ahmed
+#output of the code
+![image2](https://github.com/user-attachments/assets/d174a460-7c5d-4046-9887-3b56cbe75b65)
 
 Overview of the Chat Application
 Key Features
